@@ -52,6 +52,7 @@ SingleJDBCBase 目前包括以下几大模块，系统管理模块、权限验�
 日志输出使用 log4j-slf4j
 单元测试使用 junit
 增加Git版本控制
+增加Github控制
 
 2017-04-08 基础套件项目构建  
 SpringMVC 与前端交采用REST API
