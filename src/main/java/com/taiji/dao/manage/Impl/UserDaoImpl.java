@@ -1,14 +1,11 @@
 package com.taiji.dao.manage.Impl;
 
 import com.taiji.dao.manage.UserDao;
-import com.taiji.domain.manage.UserDomain;
 import com.taiji.entity.manage.UserEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
-
-import java.util.Date;
 
 /**
  * Created by Sleeb on 2017/4/7.
